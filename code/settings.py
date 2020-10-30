@@ -3,7 +3,7 @@ import pytz
 
 settings = {}
 settings["TIMEZONE"] = pytz.timezone("America/Chicago")
-settings["ROOT_DIR"] = "/content/drive/My Drive/HabitsLab/necksense"
+settings["ROOT_DIR"] = "/content/NecksenseColab/data"
 #====================================================================================================
 # SUBJECTS
 #====================================================================================================
